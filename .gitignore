@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+quant_train/outputs/
+quant_train/outputs_*/
+*.engine
+*.onnx
+*.pth
+*.pt
+.env
+credentials.json
